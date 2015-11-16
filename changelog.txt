@@ -1,0 +1,5 @@
+5075a24 display copyright
+fe15d90 Add file header
+45a6b0d Wrong application.bat removed
+8b1320f Add build time
+42d421d Initial commit
